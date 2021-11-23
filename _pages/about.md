@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an [Assistant Professor of Earth Sciences at Dartmouth College](https://earthsciences.dartmouth.edu/people/c-brenhin-keller).
+I'm [a 2nd-year cs phd student at Kim's lab](https://www.kimlab.org/members/people) in University of Toronto focusing on machine learning area.
 
 ---
 
