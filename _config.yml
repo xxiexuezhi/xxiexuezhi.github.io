@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CBK"
+title                    : "XXZ"
 title_separator          : "-"
-name                     : &name "C. Brenhin Keller"
-description              : &description "geochemistry, geochronology, computational science"
-url                      : https://brenhinkeller.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Xuezhi Xie"
+description              : &description "cs PhD student in University of Toronto"
+url                      : https://xxiexuezhi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "brenhinkeller/brenhinkeller.github.io"
 teaser                   : "/images/Matanuska1.jpg"
@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "C. Brenhin Keller"
+  name             : "Xuezhi Xie"
   avatar           : "profile2.jpg"
-  bio              : "Assistant Professor<br>Earth Sciences<br>Dartmouth College<br><br>cbkeller at dartmouth . edu"
+  bio              : "PhD student<br>Computer Sciences<br>xuezhi.xie mail.utoronto.ca"
   location         :
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=NZVGPiwAAAAJ&hl=en&oi=ao"
@@ -92,13 +92,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "brenhinkeller"
+  github           : "xxiexuezhi"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-7400-9428"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    :
@@ -110,7 +110,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  osf              : "https://osf.io/b7td9/"
+  osf              : 
   
 
 # Reading Files
