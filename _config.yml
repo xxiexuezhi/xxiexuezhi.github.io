@@ -13,7 +13,7 @@ name                     : &name "Xuezhi Xie"
 description              : &description "cs PhD student in University of Toronto"
 url                      : https://xxiexuezhi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "brenhinkeller/brenhinkeller.github.io"
+repository               : "xxiexuezhi/xxiexuezhi.github.io"
 teaser                   : "/images/Matanuska1.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
