@@ -10,7 +10,7 @@ redirect_from:
 ---
 * Deep generative model with constraints for peptide structural design           (Jan.2019 - now)
   * Developed a deep generative model for novel dextrorotary helical conformations to facilitate the peptide drug design.
-  * Developed and implemented various MCMC searches to optimize the synthetic data with optimized pharmetutical properties. Published the work as first author in NeuIPS Workshop (MLSB) 2021. [Link for my talk]( https://recorder-v3.slideslive.com/?share=54078&s=518da677-492e-4627-96ce-c0190976326c)
+  * Developed and implemented various MCMC searches to optimize the synthetic data with optimized pharmetutical properties. Published the work as first author in NeuIPS Workshop (MLSB) 2021. [Link for my talk](https://recorder-v3.slideslive.com/?share=54078&s=518da677-492e-4627-96ce-c0190976326c)
   
 ---
 * Cell detection application for pathological image analysis                  (Jan.2019 - April.2020)
