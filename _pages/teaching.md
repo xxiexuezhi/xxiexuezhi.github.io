@@ -1,5 +1,9 @@
-
- 
+---
+layout: archive
+title: "Curriculum Vitae"
+permalink: /teaching/
+author_profile: true
+---
 I have TA the following cs courses in Western University and University of Toronto.
 ---
 
