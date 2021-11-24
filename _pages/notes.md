@@ -16,7 +16,7 @@ This repository contains my learning notes.
 Notes
 ======
   <ul>{% for post in site.notes %}
-    {% include archive-single-cv.html %}
+    {% include archive-single.html %}
   {% endfor %}</ul>
   
 
