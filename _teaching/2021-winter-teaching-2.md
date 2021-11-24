@@ -1,5 +1,14 @@
+I have TA the following cs courses in Western University and University of Toronto.
 ---
-title: "CSC108H Introduction to Computer Programming"
+
+| Course Code  | Title                                             | N. term |
+|--------------| :-----------------------------------------------: |:-------:| 
+| CSC108H      | Introduction to Computer Programming              | 1       | 
+| CS3346       | Artificial Intelligence I                         | 2       |
+| CS2211       | Software Tools and Systems Programming            | 1       |
+| CS3340       | Analysis of Algorithms                            | 1       |
+<!-- title: "CSC108H Introduction to Com
+puter Programming"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2021-winter-teaching-2
@@ -29,6 +38,6 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2021-winter-teaching-2
 venue: "Western University, Department of Computer Science"
-date: 2019
+date: 2019 -->
 location: "Lodon, On, Canada"
 ---
