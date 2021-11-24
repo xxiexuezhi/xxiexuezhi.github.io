@@ -1,11 +1,34 @@
+I have been a teaching assistant for the following courses 
 ---
-title: "EARS 272: Topics in Historical Geobiology, Winter 2021"
+title: "CSC108H Introduction to Computer Programming"
 collection: teaching
-type: "Graduate Course"
-permalink: /teaching/2019-spring-teaching-1
-venue: "Dartmouth College, Department of Earth Sciences"
-date: 2021-01-07
-location: "Hanover, NH"
+type: "Undergraduate Course"
+permalink: /teaching/2021-winter-teaching-2
+venue: "University of Toronto, Department of Computer Science"
+date: 2020-2021
+location: "Toronto,On,Canada"
 ---
-
-Graduate seminar. Co-teaching with [Sarah Slotznick](https://faculty-directory.dartmouth.edu/sarah-p-slotznick)
+title: "CS3346 Artificial Intelligence I"
+collection: teaching
+type: "Undergraduate Course"
+permalink: /teaching/2021-winter-teaching-2
+venue: "Western University, Department of Computer Science"
+date: 2020
+location: "Lodon,On,Canada"
+---
+title: "CS2211 Software Tools and Systems Programming"
+collection: teaching
+type: "Undergraduate Course"
+permalink: /teaching/2021-winter-teaching-2
+venue: "Western University, Department of Computer Science"
+date: 2019
+location: "Lodon,On,Canada"
+---
+title: "CS3340 Analysis of Algorithms"
+collection: teaching
+type: "Undergraduate Course"
+permalink: /teaching/2021-winter-teaching-2
+venue: "Western University, Department of Computer Science"
+date: 2019
+location: "Lodon, On, Canada"
+---
