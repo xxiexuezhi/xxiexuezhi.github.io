@@ -9,6 +9,7 @@ This repository contains my learning notes.
 ---
 {% include base_path %}
 
-{% for post in site.notes reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
