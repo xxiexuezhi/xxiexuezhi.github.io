@@ -38,6 +38,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2021-winter-teaching-2
 venue: "Western University, Department of Computer Science"
-date: 2019 -->
+date: 2019 
 location: "Lodon, On, Canada"
 ---
+-->
