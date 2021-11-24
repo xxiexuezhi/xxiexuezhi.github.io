@@ -12,8 +12,11 @@ I'm [a 2nd-year cs phd student at Kim's lab](https://www.kimlab.org/members/peop
 
 ---
 
-machine learning has achieved rapid progress in many areasdue to its ability to understanding the comprehensive relationships between multiple interdependent variables. My research applies a wide range of integrated computational, field, and geochronological approaches to better understand the history of the solid Earth, particularly including the formation of the continental crust and its coevolution with the biosphere and the surface Earth system.
+machine learning has achieved rapid progress in many areasdue to its ability to understanding the comprehensive relationships between multiple interdependent variables. My research applies a wide range of deep learning approaches to better understand protein structure and function. I believe that the ability to design proteins shows our understanding of biology.
 
+Over the past three years, I have developed several deep learning models including CNN, LSTM, transformers, and deep generative model using Keras and Pytorch. Models have been demonstrated state-of-art performance, and published papers are available in publication section.
+
+<!-- 
 Over the past few years, I have transitioned most of my computational research from a C-and-Matlab two-language workflow (C for heavy lifting / parallel work, and Matlab everything else) to a pure [Julia](https://julialang.org/) workflow, using [MPI.jl](https://github.com/JuliaParallel/MPI.jl) for most parallel/HPC work, along with packages like [LoopVectoriztion.jl](https://github.com/chriselrod/LoopVectorization.jl) and [VectorizedRNG.jl](https://github.com/chriselrod/VectorizedRNG.jl) for SIMD performance. I have written up a few [notes](https://github.com/brenhinkeller/JuliaAdviceForMatlabProgrammers) of advice for anyone else who is interested in doing the same. The short version: efficient _multiple dispatch_ really does provide a solution to the "two-language problem", but the dispatch-centric programming paradigm can take quite a while to fully internalize; beware _type instability_.
 
 ---
@@ -49,4 +52,4 @@ If you're interested in "statistical geochemistry", especially weighted bootstra
 [![Binder](https://static.mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brenhinkeller/StatGeochem.jl/main?filepath=examples/PerplexExamples.ipynb)
 
 * Constant-silica reference crustal model (see [Keller & Harrison, 2020](https://www.pnas.org/content/117/35/21101))
-[![Binder](https://static.mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brenhinkeller/StatGeochem.jl/main?filepath=examples/ConstantSilicaReferenceModel.ipynb)
+[![Binder](https://static.mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brenhinkeller/StatGeochem.jl/main?filepath=examples/ConstantSilicaReferenceModel.ipynb) -->
