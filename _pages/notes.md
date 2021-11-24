@@ -23,7 +23,7 @@ Notes
 <!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
+    {% include archive-single.html %}
   {% endfor %}</ul> -->
  
 
