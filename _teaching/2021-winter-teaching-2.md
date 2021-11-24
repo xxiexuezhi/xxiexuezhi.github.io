@@ -1,4 +1,3 @@
-I have been a teaching assistant for the following courses 
 ---
 title: "CSC108H Introduction to Computer Programming"
 collection: teaching
