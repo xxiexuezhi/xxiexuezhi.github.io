@@ -1,6 +1,6 @@
 ---
 title: "MHCherryPan, a novel pan-specific model for binding affinity prediction of class I HLA-peptide"
-collection: publications
+collection: notes
 permalink: /publication/2020-09-01-xuezhi-xie
 excerpt: '------'
 date: 2020-09-01
