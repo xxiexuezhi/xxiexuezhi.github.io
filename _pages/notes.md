@@ -10,8 +10,6 @@ redirect_from:
 ---
 This repository contains my learning notes.
 <br/><br/>
-
-Notes
 ======
   <ul>{% for post in site.notes %}
     {% include archive-single.html %}
