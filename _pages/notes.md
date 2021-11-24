@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-
-Xuezhi Xie
 ---
 This repository contains my learning notes.
 <br/><br/>
