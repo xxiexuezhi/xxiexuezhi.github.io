@@ -55,9 +55,6 @@ If you're interested in "statistical geochemistry", especially weighted bootstra
 [![Binder](https://static.mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brenhinkeller/StatGeochem.jl/main?filepath=examples/ConstantSilicaReferenceModel.ipynb) -->
 
 ---
----
-{% include base_path %}
-
 Xuezhi Xie
 ---
 PhD student, Department of Computer Science, University of Toronto
