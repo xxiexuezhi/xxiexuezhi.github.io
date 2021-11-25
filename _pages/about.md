@@ -56,4 +56,4 @@ If you're interested in "statistical geochemistry", especially weighted bootstra
 
 ---
 
-{% include cv.html %}
+{% include site.pages.cv %}
