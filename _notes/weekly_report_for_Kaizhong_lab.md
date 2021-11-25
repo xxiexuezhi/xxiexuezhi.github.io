@@ -14,5 +14,6 @@ authors: 'Xuezhi Xie'
 >Description: <br/> This is my weekly report regarding my works in Prof Kaizhong's lab. The google doc is not oepn to public 
 
 <br/>This is [my weekly notes](https://docs.google.com/document/d/1y8zzpGMOvD94xcP7AMBCpP5l99PEDZDu2ABTx71VRf4/edit)
+<br/>This is [my final presentation](https://docs.google.com/presentation/d/1ZDRAmYgrH0SAjZ4ggAsAGngiLSdTLtRoP2rOCPLk6PI/edit#slide=id.g104651591b8_2_200)
 <!-- <br/>This is the link for [course materials](https://docs.google.com/document/d/1eLb4z2rfmJHW_gxL7vmrETSpkg_RI17sumpNnyHZg_Y/edit)
  -->
