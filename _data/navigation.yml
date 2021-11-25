@@ -3,13 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
     
+  - title: "CV"
+    url: /cv/
+        
   - title: "Projects"
     url: /projects/    
 #   - title: "Code"
 #     url: https://github.com/xxiexuezhi    
-  - title: "CV"
-    url: /cv/
-    
+
   - title: "Teaching"
     url: /teaching/
 
