@@ -9,7 +9,7 @@ author_profile: true
 This repository contains my learning notes.
 <br/><br/>
 ======
-  <ul>{% for post in site.notes %}
+  <ul>{% for post in site.notes reversed %}
     {% include archive-single.html %}
   {% endfor %}</ul>
   
