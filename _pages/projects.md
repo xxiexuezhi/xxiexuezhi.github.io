@@ -10,7 +10,7 @@ author_profile: true
 ---
 * Deep generative model with constraints for peptide structural design           (Jan.2019 - now)
   * Developed a deep generative model for novel dextrorotary helical conformations to facilitate the peptide drug design.
-  * Developed and implemented various MCMC searches to optimize the synthetic data with optimized pharmetutical properties. Published the work as first author in NeuIPS Workshop (MLSB) 2021. [Link for my talk](https://recorder-v3.slideslive.com/?share=54078&s=518da677-492e-4627-96ce-c0190976326c)
+  * Developed and implemented various MCMC searches to optimize the synthetic data with optimized pharmetutical properties. Published the work as first author in NeuIPS Workshop (MLSB) 2021.  <u><a href="https://recorder-v3.slideslive.com/?share=54078&s=518da677-492e-4627-96ce-c0190976326c"><b>Link for my talk</b></a>.</u> 
   
 ---
 * Cell detection application for pathological image analysis                  (Jan.2019 - April.2020)
@@ -20,7 +20,7 @@ author_profile: true
 ---
 * Recommendation system for  prediction of user purchase behavior             (Jan. 2019 - Mar.2019) 
   * Classified data as train sets, validation sets and test sets. Constructed features using Pandas. Dealt with positive and negative sample imbalances using k-means and subsample.
-  * Used the Gradient Boosting Decision Tree to predict user purchase behavior through model training, parameter tuning and performance evaluation using F1-Score. Ranked 4th in 135 submission teams ([Kaggle leaderboard link](https://www.kaggle.com/c/csc2515-rating-prediction/leaderboard))
+  * Used the Gradient Boosting Decision Tree to predict user purchase behavior through model training, parameter tuning and performance evaluation using F1-Score. Ranked 4th in 135 submission teams <u><a href="https://www.kaggle.com/c/csc2515-rating-prediction/leaderboard">Kaggle leaderboard link</a>.</u> 
   
 ---
 * Data Mining for Twitter Unstructured Data                                   (Sep.2018 - Dec.2018)
