@@ -64,10 +64,9 @@ PhD student, Department of Computer Science, University of Toronto
 
 Education
 ======
-* B.S. in Biology, Minor in Computer science, University of Waterloo, 2012 - 2016
-* M.S. in Computer Science, specialization in Artificial Intelligence, Western University, 2018 - 2020
 * Ph.D in Computer Science, University of Toronto, 2020 - 2024 (expected)
-
+* M.S. in Computer Science, specialization in Artificial Intelligence, Western University, 2018 - 2020
+* B.S. in Biology, Minor in Computer science, University of Waterloo, 2012 - 2016
   
 Skills
 ======
@@ -120,7 +119,7 @@ Projects
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
