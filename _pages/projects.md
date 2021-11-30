@@ -2,9 +2,8 @@
 layout: archive
 title: "projects"
 permalink: /projects/
-author_profile: false
-redirect_from:
-  - /resume
+author_profile: true
+
 ---
 {% include base_path %}
 ---
