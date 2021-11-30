@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/xuezhi-xie-76ba7699/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -226,10 +226,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _fieldwork
+  # _projects
   - scope:
       path: ""
-      type: fieldwork
+      type: projects
     values:
       layout: single
       author_profile: true
@@ -240,7 +240,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
   # _notes
