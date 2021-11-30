@@ -20,7 +20,7 @@ author_profile: true
 ---
 * Recommendation system for  prediction of user purchase behavior             (Jan. 2019 - Mar.2019) 
   * Classified data as train sets, validation sets and test sets. Constructed features using Pandas. Dealt with positive and negative sample imbalances using k-means and subsample.
-  * Used the Gradient Boosting Decision Tree to predict user purchase behavior through model training, parameter tuning and performance evaluation using F1-Score. Ranked 4th in 135 submission teams <u><a href="https://www.kaggle.com/c/csc2515-rating-prediction/leaderboard">Kaggle leaderboard link</a>.</u> 
+  * Used the Gradient Boosting Decision Tree to predict user purchase behavior through model training, parameter tuning and performance evaluation using F1-Score. Ranked 4th in 135 submission teams. <u><a href="https://www.kaggle.com/c/csc2515-rating-prediction/leaderboard">Kaggle leaderboard link</a>.</u> 
   
 ---
 * Data Mining for Twitter Unstructured Data                                   (Sep.2018 - Dec.2018)
