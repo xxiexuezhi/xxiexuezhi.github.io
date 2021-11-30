@@ -3,9 +3,10 @@ layout: archive
 title: "projects"
 permalink: /projects/
 author_profile: true
-
 ---
+
 {% include base_path %}
+
 ---
 * Deep generative model with constraints for peptide structural design           (Jan.2019 - now)
   * Developed a deep generative model for novel dextrorotary helical conformations to facilitate the peptide drug design.
