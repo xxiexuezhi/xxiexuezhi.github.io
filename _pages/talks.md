@@ -1,28 +1,12 @@
-<!-- ---
-layout: archive
-title: "Talks"
-permalink: /talks/
-author_profile: false
----
-<html>
-{% include base_path %} 
-<body>
-
-<!-- <iframe width="420" height="345" src="https://youtu.be/4ZIjSW_c4Og">
-</iframe>  -->
- 
-<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
-
-</body>
-</html> -->
-
 ---
 layout: archive
 title: "Talks"
 permalink: /talks/
 author_profile: true
+redirect_from:
+  - /resume
 ---
+
 
 {% include base_path %}
 
