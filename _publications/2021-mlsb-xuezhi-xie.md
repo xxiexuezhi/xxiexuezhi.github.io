@@ -23,7 +23,7 @@ permalink: /publication/2021-mlsb-xuezhi-xie
 excerpt: 'My first significant computational work regarding my phd study.'
 date: 2021-12-01
 venue: 'Machine Learning for Structural Biology (MLSB) Workshop at NeurIPS'
-paperurl: 'https://www.mlsb.io'
+paperurl: 'https://www.mlsb.io/papers_2021/MLSB2021_HelixGAN:_A_bidirectional_Generative.pdf'
 authors: 'Xuezhi Xie and Philip M. Kim.'
 citation: 'Xie,  &Kim . (2021). HelixGAN: A bidirectional Generative Adversarial Network with search in latent space for generation under constraints, Machine Learning for Structural Biology (MLSB) Workshop at   <i>NeurIPS</i> '
 ---
