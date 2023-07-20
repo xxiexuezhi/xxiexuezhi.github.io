@@ -76,7 +76,7 @@ Skills
 * Frameworks:  Keras, Pytorch, Tensorflow, PySpark, Hadoop MapReduce     
 * System: Linux, Windows       
 * Version Control: Git/GitHub
-* Machine learning: Proficient in deep Convolutional Neural Network, LSTM, logistic regression, support vector machine, decision tree, random forest, GBDT,  naive bayes,  k-means, PCA, collaborative filtering. 
+* Machine learning: Proficient in deep generative models (diffusion, gan, VAE), CNN, LSTM, logistic regression, support vector machine, decision tree, random forest, GBDT,  naive bayes,  k-means, PCA, collaborative filtering. 
 * Computer vision:  Skilled in image processing (OpenCV), object detection, object segmentation, mapping and localization, and SLAM.
 * Natural language processing:  Skilled in text classification, sentiment analysis and speech recognition
 
