@@ -76,7 +76,7 @@ Skills
 * Frameworks:  Keras, Pytorch, Tensorflow, PySpark, Hadoop MapReduce     
 * System: Linux, Windows       
 * Version Control: Git/GitHub
-* Machine learning: Proficient in deep generative models (diffusion, gan, VAE), CNN, LSTM, logistic regression, support vector machine, decision tree, random forest, GBDT,  naive bayes,  k-means, PCA, collaborative filtering. 
+* Machine learning: Proficient in deep generative models (diffusion models, gan, VAE), CNN, LSTM, logistic regression, support vector machine, decision tree, random forest, GBDT,  naive bayes,  k-means, PCA, collaborative filtering. 
 * Computer vision:  Skilled in image processing (OpenCV), object detection, object segmentation, mapping and localization, and SLAM.
 * Natural language processing:  Skilled in text classification, sentiment analysis and speech recognition
 
@@ -84,9 +84,8 @@ Skills
 Work experience
 ======
 * Research assistant (machine learning) - University of Toronto, Toronto, On, Canada, 2020 - present
-  * Developed a deep generative model for novel dextrorotary helical conformations to facilitate the peptide drug design.
-  * Developed and implemented various MCMC searches to optimize the synthetic data with optimized pharmetutical properties. Published the work as first author in NeuIPS Workshop (MLSB) 2021.
-  * Pre-trained a graph convolutional network to reconstruct masked amino acids in proteins
+  * Developed different deep generative model for target-pecific drug design, including score-based diffusion model, GAN, and VAE.
+  * Developed and implemented various searches and inpainting methods to optimize the synthetic data with optimized pharmetutical properties. 
   * Supervisor: Professor Philip M. Kim
 
 * AI developer & Research assistant  - Kaizhong’s lab, Western University,  London, On, Canada, Sep.2018 - Apr. 2020
