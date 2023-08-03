@@ -98,9 +98,15 @@ Work experience
 
 Projects
 ======
-* Deep generative model with constraints for peptide structural design           (Jan.2019 - now)
-  * Developed a deep generative model for novel dextrorotary helical conformations to facilitate the peptide drug design.
-  * Developed and implemented various MCMC searches to optimize the synthetic data with optimized pharmetutical properties. Published the work as first author in NeuIPS Workshop (MLSB) 2021. [Link for my talk](https://recorder-v3.slideslive.com/?share=54078&s=518da677-492e-4627-96ce-c0190976326c)
+* Diffusion model for antigen-specific antibody design           (Jan.2022 - now)
+  * Developed a score-based diffusion model named AntibodySGM for antigen specefic antibody design and achived state-of-art performance compared with current deep learning models. 
+  * Developed and implemented a novel CDR-inpainting module for antigen-specific antibody optimization. Published the work as first author in ICML Workshop (ICML computational biology) 2023. [Link for my paper](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper143.pdf)
+
+
+
+* Deep generative model with constraints for D-peptide drug design           (Jan.2019 - Jan.2023)
+  * Developed a deep generative model using GAN for novel dextrorotary helical conformations to facilitate the peptide drug design.
+  * Developed and implemented various latent search methods for the synthetic data with optimized pharmetutical properties. Published the work as first author in both Bioinformatics (2023) [Link for my paper](https://academic.oup.com/bioinformatics/article/39/1/btad036/6991169) and  NeuIPS Workshop (MLSB) 2021. [Link for my talk](https://recorder-v3.slideslive.com/?share=54078&s=518da677-492e-4627-96ce-c0190976326c)
 
 
 * Cell detection application for pathological image analysis                  (Jan.2019 - April.2020)
