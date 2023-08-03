@@ -1,7 +1,7 @@
 ---
-title: "HelixGAN a deep learning methodology for conditional de novo design of α-helix structures"
+title: "Antibody-SGM: Antigen-Specific Joint Design of Antibody Sequence and Structure using Diffusion Models"
 collection: publications
-permalink: /publication/2023-01-01-xuezhi-xie
+permalink: /publication/2023-05-01-xuezhi-xie
 excerpt: '------'
 date: 2023-07-01
 venue: 'ICML - Computational Biology'
