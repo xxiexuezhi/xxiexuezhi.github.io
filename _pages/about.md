@@ -100,6 +100,7 @@ Projects
 * Diffusion model for antigen-specific antibody design           (Jan.2022 - now)
   * Developed a score-based diffusion model named AntibodySGM for antigen specefic antibody design and achived state-of-art performance compared with current deep learning models. 
   * Developed and implemented a novel CDR-inpainting module for antigen-specific antibody optimization. Published the work as first author in ICML Workshop (ICML computational biology) 2023. [Link for my paper](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper143.pdf)
+  * Create an online visulization tools for peptide and protien. Generated antiboy data also included. [Link for my visulization tool](https://huggingface.co/spaces/xxie92/proteinml-demo-dssp-duplicate) 
 
 
 
