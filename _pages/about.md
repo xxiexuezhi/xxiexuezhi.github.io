@@ -25,10 +25,17 @@ Check out [my publication page](https://xxiexuezhi.github.io/publications/) for 
 Recorded Virtual Talk on MLSB NeurIPS and Designed Cover for ACS Science
 </p>
 <p align="center">
-<img src="/images/helixgan_nips_talk.png" width="42%"/>
+<img src="/images/helixgan_nips_talk.png" width="43%"/>
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
 <img src="/images/acs_cover.jpg" width="40%"/> 
 </p>
+
+<p align="center">
+The Gif for Flow-matching Process inide HelixFlow Model 
+</p>
+
+| ![](images/run_1_time_rosetta2.gif) | ![](images/a_font30_gif_len16.gif.gif)  |
+
 
 <!-- 
 
