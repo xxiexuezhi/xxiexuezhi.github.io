@@ -27,7 +27,7 @@ Recorded Virtual Talk on MLSB NeurIPS and Designed Cover for ACS Science
 <p align="center">
 <img src="/images/helixgan_nips_talk.png" width="33%"/>
 <img src="/images/acs_cover.jpg" width="30%"/> 
-<img src="/images/twitter_helixdiff.png" width="30%"/>   
+<img src="/images/twitter_helixdiff.png" width="20%"/>   
 </p>
 
 <p align="center">
