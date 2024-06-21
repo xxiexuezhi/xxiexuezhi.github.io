@@ -20,9 +20,9 @@ Check out [my publication page](https://xxiexuezhi.github.io/publications/) for 
 
 
 
-Recorded Virtual Talk on MLSB NeurIPS and Designed Cover for ACS Science
-<p align="center">
 
+<p align="center">
+Recorded Virtual Talk on MLSB NeurIPS and Designed Cover for ACS Science
 <img src="/images/helixgan_nips_talk.png" width="44%"/>
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
 <img src="/images/acs_cover.jpg" width="40%"/> 
