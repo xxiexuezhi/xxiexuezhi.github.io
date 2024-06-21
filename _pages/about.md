@@ -21,16 +21,16 @@ Check out [my publication page](https://xxiexuezhi.github.io/publications/) for 
 
 
 
-<p align="center">
-Recorded Virtual Talk on MLSB NeurIPS and Designed Cover for ACS Science
+<p align="left">
+Check out the Recorded Virtual Talk on MLSB NeurIPS and Designed Cover for ACS Science
 </p>
 <p align="center">
 <img src="/images/helixgan_nips_talk.png" width="43%"/>
 <img src="/images/acs_cover.jpg" width="40%"/>   
 </p>
 
-<p align="center">
-The Gif for Flow-matching Process inide HelixFlow Model (14, 16, 18, 20 AA)
+<p align="left">
+Check out my recent work on Flow-matching model using E3NN. the Gif for Flow-matching Process inide HelixFlow Model (14, 16, 18, 20 AA)
 </p>
 
 
