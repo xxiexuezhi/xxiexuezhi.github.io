@@ -21,6 +21,7 @@ Check out [my publication page](https://xxiexuezhi.github.io/publications/) for 
 
 | ![Antibody-SGM schematic](/images/helixgan_nips_talk.png) | ![Antibody-SGM schematic2](/images/acs_cover.jpg) |
 
+<img src="/images/helixgan_nips_talk.png" width="425"/> <img src="/images/acs_cover.jpg" width="425"/> 
 
 <!-- 
 
