@@ -25,7 +25,7 @@ Check out [my publication page](https://xxiexuezhi.github.io/publications/) for 
 Check out the Recorded Virtual Talk on MLSB NeurIPS (HelixGAN) and Designed Cover for ACS Science (HelixDiff)
 </p>
 <p align="center">
-<img src="/images/helixgan_nips_talk.png" width="39.5%"/>
+<img src="/images/helixgan_nips_talk.png" width="40%"/>
   &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 
 <img src="/images/acs_cover.jpg" width="37%"/>   
 </p>
