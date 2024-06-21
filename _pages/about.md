@@ -19,11 +19,11 @@ My research interest mainly focuses on integrating computational and experimenta
 Check out [my publication page](https://xxiexuezhi.github.io/publications/) for more details. 
 
 
-| ![Antibody-SGM schematic](/images/helixgan_nips_talk.png) | ![Antibody-SGM schematic2](/images/acs_cover.jpg) |
+
 <p align="center">
   
-<img src="/images/helixgan_nips_talk.png" width="45%"/>
-&nbsp; &nbsp; &nbsp; &nbsp;
+<img src="/images/helixgan_nips_talk.png" width="44%"/>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
 <img src="/images/acs_cover.jpg" width="42%"/> 
 </p>
 <!-- 
