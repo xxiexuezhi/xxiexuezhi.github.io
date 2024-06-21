@@ -31,14 +31,14 @@ Recorded Virtual Talk on MLSB NeurIPS and Designed Cover for ACS Science
 </p>
 
 <p align="center">
-The Gif for Flow-matching Process inide HelixFlow Model 
+The Gif for Flow-matching Process inide HelixFlow Model (14, 16, 18, 20 AA)
 </p>
 
 
 
 <p align="center">
 <img src="/images/run_1_time_rosetta2.gif" width="25%"/>
-&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
 <img src="/images/a_font30_gif_len16.gif" width="40%"/> 
 </p>
 <p align="center">
