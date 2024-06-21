@@ -8,9 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I'm [a 4th-year cs phd student at Kim's lab](https://www.kimlab.org/members/people) in University of Toronto focusing on AI for science.
+Welcome to my personal website !
+
+I am [a 4th-year cs phd student at Kim's lab](https://www.kimlab.org/members/people) at the University of Toronto, specializing in AI for science. My research focuses on using generative AI to design pharmaceutical peptide and protein drugs, with projects including D-peptide drugs and epitope-specific antibodies for applications such as wet-lab validated GLP-1 agonists and SARS-CoV-2 treatments.
 
 ---
+
+My research interest mainly focuses on integrating computational and experimental approaches to tackle critical biomedical problems. Over the past three years, I have developed various deep learning models for computational biology, including score-based diffusion models, generative adversarial networks, transformers, and reinforcement learning, using PyTorch and TensorFlow. We apply these advanced machine learning technologies and high-throughput screening methods to design and validate novel therapeutics, aiming to significantly impact patient care and therapy development.
+
+Check out [my publication page](https://xxiexuezhi.github.io/publications/) for more details. 
+
+
+| Command | Description |
+
+
+<!-- 
 
 The ability to design biological molecules shows our understanding of biology. My research interest mainly focuses on understanding biological systems and design for pharmaceutical peptide/protein drugs using generative AI. In particular, I’ve been focusing on the generation of the D-peptide drug and epitoipe-specific antibodies with different deep generative models and its applications to real-world tasks, for example, glucagon-like peptide 1 (GLP-1) agonists, SARS-CoV-2, etc. 
 
@@ -138,6 +150,10 @@ Publications
   
 <!-- Teaching
 ======
+
+
+
+ -->
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
