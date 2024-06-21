@@ -20,9 +20,12 @@ Check out [my publication page](https://xxiexuezhi.github.io/publications/) for 
 
 
 | ![Antibody-SGM schematic](/images/helixgan_nips_talk.png) | ![Antibody-SGM schematic2](/images/acs_cover.jpg) |
-
-<img src="/images/helixgan_nips_talk.png" width="425"/> <img src="/images/acs_cover.jpg" width="425"/> 
-
+<p align="center">
+  
+<img src="/images/helixgan_nips_talk.png" width="45%"/>
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img src="/images/acs_cover.jpg" width="42%"/> 
+</p>
 <!-- 
 
 The ability to design biological molecules shows our understanding of biology. My research interest mainly focuses on understanding biological systems and design for pharmaceutical peptide/protein drugs using generative AI. In particular, I’ve been focusing on the generation of the D-peptide drug and epitoipe-specific antibodies with different deep generative models and its applications to real-world tasks, for example, glucagon-like peptide 1 (GLP-1) agonists, SARS-CoV-2, etc. 
