@@ -23,7 +23,7 @@ Check out [my publication page](https://xxiexuezhi.github.io/publications/) for 
 <p align="center">
   
 <img src="/images/helixgan_nips_talk.png" width="44%"/>
-<figcaption style="text-align: center;">Recorded Virtual Talk on MLSB NeurIPS</figcaption>
+<figcaption>Recorded Virtual Talk on MLSB NeurIPS</figcaption>
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
 <img src="/images/acs_cover.jpg" width="40%"/> 
 </p>
