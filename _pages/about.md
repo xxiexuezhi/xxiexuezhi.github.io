@@ -41,6 +41,11 @@ The Gif for Flow-matching Process inide HelixFlow Model
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
 <img src="/images/a_font30_gif_len16.gif" width="40%"/> 
 </p>
+<p align="center">
+<img src="/images/a_length18_gif.gif" width="25%"/>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
+<img src="/images/a_length20_gif.gif" width="40%"/> 
+</p>
 
 <!-- 
 
