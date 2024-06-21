@@ -14,7 +14,7 @@ I am [a 4th-year cs phd student at Kim's lab](https://www.kimlab.org/members/peo
 
 ---
 
-My research interest mainly focuses on integrating computational and experimental approaches to tackle critical biomedical problems. Over the past three years, I have developed various deep learning models for computational biology, including score-based diffusion models, generative adversarial networks, transformers, and reinforcement learning, using PyTorch and TensorFlow. We apply these advanced machine learning technologies and high-throughput screening methods to design and validate novel therapeutics, aiming to significantly impact patient care and therapy development.
+My work involves in integrating computational and experimental approaches to tackle critical biomedical problems. Over the past three years, I have developed various deep learning models for computational biology, including flow-matching models, score-based diffusion models, generative adversarial networks, transformers, and reinforcement learning, using PyTorch and TensorFlow. I apply these cutting-edge gnerative AI to design and validate novel therapeutics, aiming to significantly impact patient care and therapy development.
 
 Check out [my publication page](https://xxiexuezhi.github.io/publications/) for more details. 
 
