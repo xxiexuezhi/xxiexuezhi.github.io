@@ -28,14 +28,11 @@ Check out [my publication page](https://xxiexuezhi.github.io/publications/) for 
 </p>
 
 <p align="center" style="display: flex; justify-content: center; align-items: flex-start;">
-  <figure style="display: inline-block; margin: 0 20px;">
     <img src="/images/helixgan_nips_talk.png" width="40%"/>
     <figcaption style="text-align: center;">Recorded Virtual Talk on MLSB NeurIPS</figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 0 20px;">
+     &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
     <img src="/images/acs_cover.jpg" width="36%"/> 
     <figcaption style="text-align: center;">Designed Cover for ACS Science</figcaption>
-  </figure>
 </p>
 
 <!-- 
