@@ -27,7 +27,7 @@ Check out [my publication page](https://xxiexuezhi.github.io/publications/) for 
 <img src="/images/acs_cover.jpg" width="40%"/> 
 </p>
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; align-items: flex-start;">
   <figure style="display: inline-block; margin: 0 20px;">
     <img src="/images/helixgan_nips_talk.png" width="40%"/>
     <figcaption style="text-align: center;">Recorded Virtual Talk on MLSB NeurIPS</figcaption>
