@@ -29,10 +29,10 @@ Check out [my publication page](https://xxiexuezhi.github.io/publications/) for 
 
 <p align="center" style="display: flex; justify-content: center; align-items: flex-start;">
     <img src="/images/helixgan_nips_talk.png" width="40%"/>
-    <figcaption style="text-align: center;">Recorded Virtual Talk on MLSB NeurIPS</figcaption>
+    <figcaption style="text-align: left;">Recorded Virtual Talk on MLSB NeurIPS</figcaption>
      &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
     <img src="/images/acs_cover.jpg" width="36%"/> 
-    <figcaption style="text-align: center;">Designed Cover for ACS Science</figcaption>
+    <figcaption style="text-align: right;">Designed Cover for ACS Science</figcaption>
 </p>
 
 <!-- 
