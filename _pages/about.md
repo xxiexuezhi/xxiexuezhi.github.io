@@ -26,7 +26,7 @@ Check out the Recorded Virtual Talk on MLSB NeurIPS (HelixGAN) and Designed Cove
 </p>
 <p align="center">
 <img src="/images/helixgan_nips_talk.png" width="43%"/>
-  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
 <img src="/images/acs_cover.jpg" width="40%"/>   
 </p>
 
@@ -38,7 +38,7 @@ Check out my recent work on Flow-matching model using E3NN. the Gif for Flow-mat
 
 <p align="center">
 <img src="/images/run_1_time_rosetta2.gif" width="25%"/>
-&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
 <img src="/images/a_font30_gif_len16.gif" width="40%"/> 
 </p>
 <p align="center">
