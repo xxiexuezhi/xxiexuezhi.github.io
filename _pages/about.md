@@ -51,17 +51,15 @@ Check out my recent work on Flow-matching model using E3NN to direct monitering 
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
 <img src="/images/a_len20_image.gif" width="40%"/> 
 </p>
-======
+---
+
 <p>
 A pratice talks cover my recent works (helixDiff, HelixFlow, and ABGM) on May 2024. 
 </p>
-
 <a align="right" href="https://youtu.be/s6CfBTmmV4U" target="_blank">
       <img src="https://img.youtube.com/vi/s6CfBTmmV4U/0.jpg" alt="Watch the video" width="30%">
 </a>
-======
-
-
+---
 
 <!-- 
 
