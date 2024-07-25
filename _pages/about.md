@@ -34,6 +34,8 @@ Check out Our Designed Art Work Using Machine Learninig Which Was Selected as Co
 <img src="/images/helixgan_nips_talk.png" width="39%"/>
 </p>
 
+---
+  
 <p align="left">
 Check out my recent work on Flow-matching model using E3NN to direct monitering atom movements. the Gif for Flow-matching Process inide HelixFlow Model (14, 16, 18, 20 AA)
 </p>
@@ -65,21 +67,6 @@ A pratice talks cover my recent works (helixDiff, HelixFlow, and ABGM) on May 20
 
 
 
-
-<p align="left">
-Check out my recent work on Flow-matching model using E3NN to direct monitering atom movements. the Gif for Flow-matching Process inide HelixFlow Model (14, 16, 18, 20 AA)
-</p>
-
-<p align="center">
-<img src="/images/run_1_time_rosetta2.gif" width="25%"/>
-&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
-<img src="/images/a_font30_gif_len16.gif" width="40%"/> 
-</p>
-<p align="center">
-<img src="/images/a_length18_gif.gif" width="40%"/>
-&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
-<img src="/images/a_len20_image.gif" width="40%"/> 
-</p>
 
 <!-- 
 
@@ -173,7 +160,10 @@ Work experience
 
 Projects
 ======
-* Diffusion model for antigen-specific antibody design           (Jan.2022 - now)
+* Flow-matching model for antibody design       (Jan.2024 - Now)                                                                                      
+ * Designed flow-matching model with equivariance for full-atom antibody design, and developed an active inpainting model for conditional design based on antigen. 
+
+* Diffusion model for antigen-specific antibody design           (Jan.2022 - Dec.2023)
   * Developed a score-based diffusion model named AntibodySGM for antigen specefic antibody design and achived state-of-art performance compared with current deep learning models. 
   * Developed and implemented a novel CDR-inpainting module for antigen-specific antibody optimization. Published the work as first author in ICML Workshop (ICML computational biology) 2023. [Link for my paper](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper143.pdf)
   * Create an online visulization tools for peptide and protien. Generated antiboy data also included. [Link for my visulization tool](https://huggingface.co/spaces/xxie92/proteinml-demo-dssp-duplicate) 
@@ -208,6 +198,7 @@ Projects
   {% endfor %}</ul>
   
 (Conferences & workshops)
+
   <ul>{% for post in site.publications.conference reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
