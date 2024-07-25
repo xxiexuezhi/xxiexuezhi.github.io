@@ -14,7 +14,7 @@ Welcome to my personal website !
 
 I am [a 4th-year cs phd student at Kim's lab](https://www.kimlab.org/members/people) at the University of Toronto, specializing in AI for science. My research focuses on using generative AI to design pharmaceutical peptide and protein drugs, with projects including D-peptide drugs and epitope-specific antibodies for applications such as wet-lab validated GLP-1 agonists and SARS-CoV-2 treatments.
 
----
+
 
 My work involves in integrating computational and experimental approaches to tackle critical biomedical problems. Over the past three years, I have developed various deep learning models for computational biology, including flow-matching models, score-based diffusion models, generative adversarial networks, transformers, and reinforcement learning, using PyTorch and TensorFlow. I apply these cutting-edge gnerative AI to design and validate novel therapeutics, aiming to significantly impact patient care and therapy development.
 
@@ -34,7 +34,7 @@ Check out Our Designed Art Work Using Machine Learninig Which Was Selected as Co
 <img src="/images/helixgan_nips_talk.png" width="39%"/>
 </p>
 
----
+
 
   
 <p align="left">
@@ -53,8 +53,6 @@ Check out my recent work on Flow-matching model using E3NN to direct monitering 
 </p>
 
 
----
-  
 <p>
 A pratice talks cover my recent works (helixDiff, HelixFlow, and ABGM) on May 2024. 
 </p>
@@ -115,7 +113,7 @@ If you're interested in "statistical geochemistry", especially weighted bootstra
 -->
 
 
----
+
 
 ## Resume
 
