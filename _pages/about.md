@@ -22,13 +22,13 @@ Check out [my publication page](https://xxiexuezhi.github.io/publications/) for 
 
 
 ## Talks & Research Updates
-<p>
+<p align="left">
 A pratice talks cover my recent works on May 2024.
-</p>
+
 <a href="https://youtu.be/s6CfBTmmV4U" target="_blank">
       <img src="https://img.youtube.com/vi/s6CfBTmmV4U/0.jpg" alt="Watch the video" width="30%">
 </a>
-
+</p>
 <!-- 
 <p align="left">
 Check out the Recorded Virtual Talk on MLSB NeurIPS (HelixGAN) and Designed Cover for ACS Science (HelixDiff)
