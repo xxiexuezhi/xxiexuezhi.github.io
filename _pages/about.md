@@ -112,7 +112,7 @@ If you're interested in "statistical geochemistry", especially weighted bootstra
 
 * Constant-silica reference crustal model (see [Keller & Harrison, 2020](https://www.pnas.org/content/117/35/21101))
 [![Binder](https://static.mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brenhinkeller/StatGeochem.jl/main?filepath=examples/ConstantSilicaReferenceModel.ipynb) 
---!>
+-->
 
 
 ---
