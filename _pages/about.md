@@ -209,7 +209,7 @@ Projects
 
 * Xie et al.  “Antibody-SGM: Antigen-Specific Joint Design of Antibody Sequence and Structure using Diffusion Models”, Computational Biology Workshop at ICML 2023 [Link for my paper](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper143.pdf)
 
-* Xie et al.  “HelixGAN: A bidirectional Generative Adversarial Network with search in latent space for generation under constraints”(link), Machine Learning for Structural Biology (MLSB) Workshop at NeurIPS 2021.  [Link for my paper](https://www.mlsb.io/papers_2021/MLSB2021_HelixGAN:_A_bidirectional_Generative.pdf)  [Talk](https://slideslive.com/38971343/helixgan-a-generative-adversarial-network-with-search-in-latent-space-for-generation-under-constraints?ref=speaker-93539)
+* Xie et al.  “HelixGAN: A bidirectional Generative Adversarial Network with search in latent space for generation under constraints”(link), Machine Learning for Structural Biology (MLSB) Workshop at NeurIPS 2021.  [Link for my paper](https://www.mlsb.io/papers_2021/MLSB2021_HelixGAN:_A_bidirectional_Generative.pdf)  [Link for my talk](https://slideslive.com/38971343/helixgan-a-generative-adversarial-network-with-search-in-latent-space-for-generation-under-constraints?ref=speaker-93539)
   
 * Xie, et al.  “MHCherryPan, a novel model to predict the binding affinity of pan-specific class I HLA-peptide” (link),  IEEE International Conference on Bioinformatics and Biomedicine (IEEE - BIBM) 2019.  [Link for my paper](https://ieeexplore.ieee.org/document/8982962)
 
