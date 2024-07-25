@@ -35,10 +35,12 @@ Check out Our Designed Art Work Using Machine Learninig Which Was Selected as Co
 </p>
 
 ---
+
   
 <p align="left">
 Check out my recent work on Flow-matching model using E3NN to direct monitering atom movements. the Gif for Flow-matching Process inide HelixFlow Model (14, 16, 18, 20 AA)
 </p>
+
 <p align="center">
 <img src="/images/run_1_time_rosetta2.gif" width="25%"/>
   &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -51,17 +53,16 @@ Check out my recent work on Flow-matching model using E3NN to direct monitering 
 </p>
 
 
-
 ---
-
+  
 <p>
 A pratice talks cover my recent works (helixDiff, HelixFlow, and ABGM) on May 2024. 
-</p>                                                
+</p>
 
 <a align="right" href="https://youtu.be/s6CfBTmmV4U" target="_blank">
       <img src="https://img.youtube.com/vi/s6CfBTmmV4U/0.jpg" alt="Watch the video" width="30%">
 </a>
-</p>
+
 
 
 
@@ -110,7 +111,8 @@ If you're interested in "statistical geochemistry", especially weighted bootstra
 [![Binder](https://static.mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brenhinkeller/StatGeochem.jl/main?filepath=examples/PerplexExamples.ipynb)
 
 * Constant-silica reference crustal model (see [Keller & Harrison, 2020](https://www.pnas.org/content/117/35/21101))
-[![Binder](https://static.mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brenhinkeller/StatGeochem.jl/main?filepath=examples/ConstantSilicaReferenceModel.ipynb) -->
+[![Binder](https://static.mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brenhinkeller/StatGeochem.jl/main?filepath=examples/ConstantSilicaReferenceModel.ipynb) 
+--!>
 
 
 ---
