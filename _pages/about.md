@@ -22,31 +22,16 @@ Check out [my publication page](https://xxiexuezhi.github.io/publications/) for 
 
 
 ## Talks & Research Updates
-<style>
-  .container {
-    display: flex;
-    align-items: center;
-  }
-  .left {
-    width: 40%;
-    padding-right: 20px;
-  }
-  .right {
-    width: 60%;
-  }
-</style>
-
-<div class="container">
-  <div class="left">
+<div style="display: flex; align-items: center;">
+  <div style="width: 40%; padding-right: 20px;">
     <img src="/images/helixgan_nips_talk.png" width="100%" />
   </div>
-  <div class="right">
+  <div style="width: 60%;">
     <p>
       Check out the Recorded Virtual Talk on MLSB NeurIPS (HelixGAN) and Designed Cover for ACS Science (HelixDiff)
     </p>
   </div>
 </div>
-
 <!-- 
 <p align="left">
 Check out the Recorded Virtual Talk on MLSB NeurIPS (HelixGAN) and Designed Cover for ACS Science (HelixDiff)
