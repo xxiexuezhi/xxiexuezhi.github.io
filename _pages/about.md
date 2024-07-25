@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## About
+## A Little About Me
 
 Welcome to my personal website !
 
@@ -22,7 +22,32 @@ Check out [my publication page](https://xxiexuezhi.github.io/publications/) for 
 
 
 ## Talks & Research Updates
+<style>
+  .container {
+    display: flex;
+    align-items: center;
+  }
+  .left {
+    width: 40%;
+    padding-right: 20px;
+  }
+  .right {
+    width: 60%;
+  }
+</style>
 
+<div class="container">
+  <div class="left">
+    <img src="/images/helixgan_nips_talk.png" width="100%" />
+  </div>
+  <div class="right">
+    <p>
+      Check out the Recorded Virtual Talk on MLSB NeurIPS (HelixGAN) and Designed Cover for ACS Science (HelixDiff)
+    </p>
+  </div>
+</div>
+
+<!-- 
 <p align="left">
 Check out the Recorded Virtual Talk on MLSB NeurIPS (HelixGAN) and Designed Cover for ACS Science (HelixDiff)
 </p>
@@ -49,7 +74,7 @@ Check out my recent work on Flow-matching model using E3NN. the Gif for Flow-mat
 <img src="/images/a_len20_image.gif" width="40%"/> 
 </p>
 
-<!-- 
+
 
 The ability to design biological molecules shows our understanding of biology. My research interest mainly focuses on understanding biological systems and design for pharmaceutical peptide/protein drugs using generative AI. In particular, I’ve been focusing on the generation of the D-peptide drug and epitoipe-specific antibodies with different deep generative models and its applications to real-world tasks, for example, glucagon-like peptide 1 (GLP-1) agonists, SARS-CoV-2, etc. 
 
