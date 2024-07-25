@@ -22,6 +22,20 @@ Check out [my publication page](https://xxiexuezhi.github.io/publications/) for 
 
 
 ## Talks & Research Updates
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 30%; padding-right: 20px;">
+    <a href="https://youtu.be/s6CfBTmmV4U" target="_blank">
+      <img src="https://img.youtube.com/vi/s6CfBTmmV4U/0.jpg" alt="Watch the video" width="100%">
+    </a>
+  </div>
+  <div style="width: 70%;">
+    <p>
+      A practice talk covering my recent works in May 2024.
+    </p>
+  </div>
+</div>
+
 <p align="left">
 A pratice talks cover my recent works on May 2024. 
 
