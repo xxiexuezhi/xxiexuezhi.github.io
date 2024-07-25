@@ -31,7 +31,7 @@ Check out Our Designed Art Work Using Machine Learninig Which Was Selected as Co
 <img src="/images/acs_cover.jpg" width="37%"/>  
   &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;  
 <a href="https://slideslive.com/38971343/helixgan-a-generative-adversarial-network-with-search-in-latent-space-for-generation-under-constraints?ref=speaker-93539" target="_blank">  
-<img src="/images/helixgan_nips_talk.png" width="39.5%"/>
+<img src="/images/helixgan_nips_talk.png" width="39%"/>
 </p>
 
 <p align="left">
@@ -79,15 +79,14 @@ Check out my recent work on Flow-matching model using E3NN to direct monitering 
 <img src="/images/a_len20_image.gif" width="40%"/> 
 </p>
 
-<---
-
+<!-- 
 
 
 The ability to design biological molecules shows our understanding of biology. My research interest mainly focuses on understanding biological systems and design for pharmaceutical peptide/protein drugs using generative AI. In particular, I’ve been focusing on the generation of the D-peptide drug and epitoipe-specific antibodies with different deep generative models and its applications to real-world tasks, for example, glucagon-like peptide 1 (GLP-1) agonists, SARS-CoV-2, etc. 
 
 Over the past three years, I have developed mutiple deep learning models for computational biology including scored-based diffusion model, Generative adversarial network, transformers, and reinforcement learning using Pytorch and Tensorflow. Related papers are available in [publication section](https://xxiexuezhi.github.io/publications/).
 
-<!-- 
+
 Over the past few years, I have transitioned most of my computational research from a C-and-Matlab two-language workflow (C for heavy lifting / parallel work, and Matlab everything else) to a pure [Julia](https://julialang.org/) workflow, using [MPI.jl](https://github.com/JuliaParallel/MPI.jl) for most parallel/HPC work, along with packages like [LoopVectoriztion.jl](https://github.com/chriselrod/LoopVectorization.jl) and [VectorizedRNG.jl](https://github.com/chriselrod/VectorizedRNG.jl) for SIMD performance. I have written up a few [notes](https://github.com/brenhinkeller/JuliaAdviceForMatlabProgrammers) of advice for anyone else who is interested in doing the same. The short version: efficient _multiple dispatch_ really does provide a solution to the "two-language problem", but the dispatch-centric programming paradigm can take quite a while to fully internalize; beware _type instability_.
 
 ---
