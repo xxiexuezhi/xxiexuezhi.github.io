@@ -34,7 +34,7 @@ Check out Our Designed Art Work Using Machine Learninig Which Was Selected as Co
 <img src="/images/helixgan_nips_talk.png" width="39%"/>
 </p>
 
-======
+---
 
   
 <p align="left">
