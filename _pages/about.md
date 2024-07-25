@@ -21,7 +21,7 @@ My work involves in integrating computational and experimental approaches to tac
 Check out [my publication page](https://xxiexuezhi.github.io/publications/) for more details. 
 
 
-
+## Talks & updates
 
 <p align="left">
 Check out the Recorded Virtual Talk on MLSB NeurIPS (HelixGAN) and Designed Cover for ACS Science (HelixDiff)
