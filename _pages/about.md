@@ -161,7 +161,7 @@ Work experience
 Projects
 ======
 * Flow-matching model for antibody design       (Jan.2024 - Now)                                                                                      
- * Designed flow-matching model with equivariance for full-atom antibody design, and developed an active inpainting model for conditional design based on antigen. 
+  * Designed flow-matching model with equivariance for full-atom antibody design, and developed an active inpainting model for conditional design based on antigen. 
 
 * Diffusion model for antigen-specific antibody design           (Jan.2022 - Dec.2023)
   * Developed a score-based diffusion model named AntibodySGM for antigen specefic antibody design and achived state-of-art performance compared with current deep learning models. 
