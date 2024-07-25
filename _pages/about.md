@@ -24,33 +24,32 @@ Check out [my publication page](https://xxiexuezhi.github.io/publications/) for 
 ## Talks & Research Updates
 
 
-<p align="left">
-A pratice talks cover my recent works on May 2024. 
-
-<p align="center">
-
-
+<p>
+A pratice talks cover my recent works (helixDiff, HelixFlow, and ABGM) on May 2024. 
 </p>                                                
 
 <a align="right" href="https://youtu.be/s6CfBTmmV4U" target="_blank">
       <img src="https://img.youtube.com/vi/s6CfBTmmV4U/0.jpg" alt="Watch the video" width="30%">
 </a>
 </p>
-<!-- 
-<p align="left">
-Check out the Recorded Virtual Talk on MLSB NeurIPS (HelixGAN) and Designed Cover for ACS Science (HelixDiff)
+---
+
+<p>
+Check out Our Designed Art Work Using Machine Learninig And Selected as Cover Figure for ACS Science (HelixDiff)
 </p>
 <p align="center">
-<img src="/images/helixgan_nips_talk.png" width="39.5%"/>
-  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 
+<a align="right" href="https://pubs.acs.org/toc/acscii/10/5" target="_blank">
 <img src="/images/acs_cover.jpg" width="37%"/>   
+</p>
+<p>
+Check out the Recorded Virtual Talk on MLSB NeurIPS (HelixGAN) 
+<a align="right" href="https://slideslive.com/38971343/helixgan-a-generative-adversarial-network-with-search-in-latent-space-for-generation-under-constraints?ref=speaker-93539" target="_blank">  
+<img src="/images/helixgan_nips_talk.png" width="39.5%"/>
 </p>
 
 <p align="left">
-Check out my recent work on Flow-matching model using E3NN. the Gif for Flow-matching Process inide HelixFlow Model (14, 16, 18, 20 AA)
+Check out my recent work on Flow-matching model using E3NN to direct monitering atom movements. the Gif for Flow-matching Process inide HelixFlow Model (14, 16, 18, 20 AA)
 </p>
-
-
 
 <p align="center">
 <img src="/images/run_1_time_rosetta2.gif" width="25%"/>
