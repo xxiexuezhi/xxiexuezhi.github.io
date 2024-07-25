@@ -118,6 +118,9 @@ If you're interested in "statistical geochemistry", especially weighted bootstra
 
 ---
 
+## Resume
+
+
 Xuezhi Xie
 ======
 PhD student, Department of Computer Science, University of Toronto
