@@ -8,33 +8,20 @@ redirect_from:
   - /about.html
 ---
 
+## A Little About Me
 
 Welcome to my personal website !
 
 I am [a 4th-year cs phd student at Kim's lab](https://www.kimlab.org/members/people) at the University of Toronto, specializing in AI for science. My research focuses on using generative AI to design pharmaceutical peptide and protein drugs, with projects including D-peptide drugs and epitope-specific antibodies for applications such as wet-lab validated GLP-1 agonists and SARS-CoV-2 treatments.
 
----
+
 
 My work involves in integrating computational and experimental approaches to tackle critical biomedical problems. Over the past three years, I have developed various deep learning models for computational biology, including flow-matching models, score-based diffusion models, generative adversarial networks, transformers, and reinforcement learning, using PyTorch and TensorFlow. I apply these cutting-edge gnerative AI to design and validate novel therapeutics, aiming to significantly impact patient care and therapy development.
 
 Check out [my publication page](https://xxiexuezhi.github.io/publications/) for more details. 
 
 
----
-
-
-<p align="left">
-Check out the Recorded Virtual Talk on MLSB NeurIPS (HelixGAN) and Designed Cover for ACS Science (HelixDiff)
-</p>
-<p align="center">
-<img src="/images/helixgan_nips_talk.png" width="40%"/>
-  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 
-<img src="/images/acs_cover.jpg" width="37%"/>   
-</p>
-
-
-
-
+## Talks & Research Updates
 
 <p align="left">
 Check out Our Designed Art Work Using Machine Learninig Which Was Selected as Cover Figure for ACS Science (IF 18,7) and the Recorded Virtual Talk on MLSB NeurIPS (HelixGAN)
@@ -46,38 +33,52 @@ Check out Our Designed Art Work Using Machine Learninig Which Was Selected as Co
   &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;  
 <a href="https://slideslive.com/38971343/helixgan-a-generative-adversarial-network-with-search-in-latent-space-for-generation-under-constraints?ref=speaker-93539" target="_blank">  
 <img src="/images/helixgan_nips_talk.png" width="39%"/>
-</a> 
+</a>  
 </p>
-
 
 
 ---
 
-
+  
 <p align="left">
-Check out my recent work on Flow-matching model using E3NN. the Gif for Flow-matching Process inide HelixFlow Model (14, 16, 18, 20 AA)
+Check out my recent work on Flow-matching model using E3NN to direct monitering atom movements. the Gif for Flow-matching Process inide HelixFlow Model (14, 16, 18, 20 AA)
 </p>
-
-
 
 <p align="center">
 <img src="/images/run_1_time_rosetta2.gif" width="25%"/>
-&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
+  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="/images/a_font30_gif_len16.gif" width="40%"/> 
+  
 </p>
 <p align="center">
 <img src="/images/a_length18_gif.gif" width="40%"/>
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
 <img src="/images/a_len20_image.gif" width="40%"/> 
+  
 </p>
 
+
+---
+
+<p>
+A pratice talks cover my recent works (helixDiff, HelixFlow, and ABGM) on May 2024. 
+</p>
+<p>
+<a align="right" href="https://youtu.be/s6CfBTmmV4U" target="_blank">
+      <img src="https://img.youtube.com/vi/s6CfBTmmV4U/0.jpg" alt="Watch the video" width="30%">
+</a>
+
+</p>
+
+
 <!-- 
+
 
 The ability to design biological molecules shows our understanding of biology. My research interest mainly focuses on understanding biological systems and design for pharmaceutical peptide/protein drugs using generative AI. In particular, I’ve been focusing on the generation of the D-peptide drug and epitoipe-specific antibodies with different deep generative models and its applications to real-world tasks, for example, glucagon-like peptide 1 (GLP-1) agonists, SARS-CoV-2, etc. 
 
 Over the past three years, I have developed mutiple deep learning models for computational biology including scored-based diffusion model, Generative adversarial network, transformers, and reinforcement learning using Pytorch and Tensorflow. Related papers are available in [publication section](https://xxiexuezhi.github.io/publications/).
 
-<!-- 
+
 Over the past few years, I have transitioned most of my computational research from a C-and-Matlab two-language workflow (C for heavy lifting / parallel work, and Matlab everything else) to a pure [Julia](https://julialang.org/) workflow, using [MPI.jl](https://github.com/JuliaParallel/MPI.jl) for most parallel/HPC work, along with packages like [LoopVectoriztion.jl](https://github.com/chriselrod/LoopVectorization.jl) and [VectorizedRNG.jl](https://github.com/chriselrod/VectorizedRNG.jl) for SIMD performance. I have written up a few [notes](https://github.com/brenhinkeller/JuliaAdviceForMatlabProgrammers) of advice for anyone else who is interested in doing the same. The short version: efficient _multiple dispatch_ really does provide a solution to the "two-language problem", but the dispatch-centric programming paradigm can take quite a while to fully internalize; beware _type instability_.
 
 ---
@@ -158,7 +159,10 @@ Work experience
 
 Projects
 ======
-* Diffusion model for antigen-specific antibody design           (Jan.2022 - now)
+* Flow-matching model for antibody design       (Jan.2024 - Now)                                                                                      
+  * Designed flow-matching model with equivariance for full-atom antibody design, and developed an active inpainting model for conditional design based on antigen. 
+
+* Diffusion model for antigen-specific antibody design           (Jan.2022 - Dec.2023)
   * Developed a score-based diffusion model named AntibodySGM for antigen specefic antibody design and achived state-of-art performance compared with current deep learning models. 
   * Developed and implemented a novel CDR-inpainting module for antigen-specific antibody optimization. Published the work as first author in ICML Workshop (ICML computational biology) 2023. [Link for my paper](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper143.pdf)
   * Create an online visulization tools for peptide and protien. Generated antiboy data also included. [Link for my visulization tool](https://huggingface.co/spaces/xxie92/proteinml-demo-dssp-duplicate) 
@@ -184,8 +188,9 @@ Projects
   
 
 
-Publications 
+## Publications 
 ======
+
 (jourals)
 
   <ul>{% for post in site.publications reversed %}
@@ -193,6 +198,7 @@ Publications
   {% endfor %}</ul>
   
 (Conferences & workshops)
+
   <ul>{% for post in site.publications.conference reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
