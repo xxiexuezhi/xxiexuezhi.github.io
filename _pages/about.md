@@ -59,7 +59,7 @@ A pratice talks cover my recent works (helixDiff, HelixFlow, and ABGM) on May 20
 <a align="right" href="https://youtu.be/s6CfBTmmV4U" target="_blank">
       <img src="https://img.youtube.com/vi/s6CfBTmmV4U/0.jpg" alt="Watch the video" width="30%">
 </a>
----
+
 
 <!-- 
 
@@ -106,12 +106,6 @@ If you're interested in "statistical geochemistry", especially weighted bootstra
 * Constant-silica reference crustal model (see [Keller & Harrison, 2020](https://www.pnas.org/content/117/35/21101))
 [![Binder](https://static.mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brenhinkeller/StatGeochem.jl/main?filepath=examples/ConstantSilicaReferenceModel.ipynb) 
 -->
-
-
-
-
-## Resume
-
 
 Xuezhi Xie
 ======
