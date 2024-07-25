@@ -29,7 +29,7 @@ Check out Our Designed Art Work Using Machine Learninig Which Was Selected as Co
 <p align="center">
 <a  href="https://pubs.acs.org/toc/acscii/10/5" target="_blank">
 <img src="/images/acs_cover.jpg" width="37%"/>  
-  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;nbsp; &nbsp; &nbsp;&nbsp;  
+  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;  
 <a href="https://slideslive.com/38971343/helixgan-a-generative-adversarial-network-with-search-in-latent-space-for-generation-under-constraints?ref=speaker-93539" target="_blank">  
 <img src="/images/helixgan_nips_talk.png" width="39%"/>
 </p>
