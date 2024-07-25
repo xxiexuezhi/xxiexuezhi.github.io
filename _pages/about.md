@@ -23,10 +23,10 @@ Check out [my publication page](https://xxiexuezhi.github.io/publications/) for 
 
 ## Talks & Research Updates
 <p>
-A pratice talks  cover my recent talks on May 2024.
+A pratice talks cover my recent works on May 2024.
 </p>
 <a href="https://youtu.be/s6CfBTmmV4U" target="_blank">
-      <img src="https://youtu.be/s6CfBTmmV4U/0.jpg" alt="Watch the video" width="100%">
+      <img src="https://img.youtube.com/vi/s6CfBTmmV4U/0.jpg" alt="Watch the video" width="100%">
 </a>
 
 <!-- 
