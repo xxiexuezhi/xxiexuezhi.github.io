@@ -34,7 +34,7 @@ Check out Our Designed Art Work Using Machine Learninig Which Was Selected as Co
 <img src="/images/helixgan_nips_talk.png" width="39%"/>
 </p>
 
-
+======
 
   
 <p align="left">
@@ -52,6 +52,7 @@ Check out my recent work on Flow-matching model using E3NN to direct monitering 
 <img src="/images/a_len20_image.gif" width="40%"/> 
 </p>
 
+======
 
 <p>
 A pratice talks cover my recent works (helixDiff, HelixFlow, and ABGM) on May 2024. 
@@ -62,7 +63,7 @@ A pratice talks cover my recent works (helixDiff, HelixFlow, and ABGM) on May 20
 </a>
 
 
-
+======
 
 
 
