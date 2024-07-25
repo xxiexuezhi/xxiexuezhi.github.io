@@ -66,13 +66,15 @@ A pratice talks cover my recent works (helixDiff, HelixFlow, and ABGM) on May 20
 ---
 
 
+
+
 <p align="left">
 Check out my recent work on Flow-matching model using E3NN to direct monitering atom movements. the Gif for Flow-matching Process inide HelixFlow Model (14, 16, 18, 20 AA)
 </p>
 
 <p align="center">
 <img src="/images/run_1_time_rosetta2.gif" width="25%"/>
-&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
 <img src="/images/a_font30_gif_len16.gif" width="40%"/> 
 </p>
 <p align="center">
