@@ -63,7 +63,6 @@ A pratice talks cover my recent works (helixDiff, HelixFlow, and ABGM) on May 20
 </a>
 </p>
 
----
 
 
 
@@ -191,6 +190,7 @@ Projects
 
 ## Publications 
 ======
+
 (jourals)
 
   <ul>{% for post in site.publications reversed %}
