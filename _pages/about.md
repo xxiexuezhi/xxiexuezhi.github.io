@@ -121,7 +121,7 @@ If you're interested in "statistical geochemistry", especially weighted bootstra
 ## Resume
 
 
-Xuezhi Xie
+**Xuezhi Xie**
 
 ---
 
@@ -129,7 +129,7 @@ PhD student, Department of Computer Science, University of Toronto
 <br/><br/>
 
 
-Education
+**Education**
 
 ---
 
@@ -137,7 +137,7 @@ Education
 * M.S. in Computer Science, specialization in Artificial Intelligence, Western University, 2018 - 2020
 * B.S. in Biology, Minor in Computer science, University of Waterloo, 2012 - 2016
   
-Skills
+**Skills**
 
 ---
 
@@ -152,7 +152,7 @@ Skills
 * Natural language processing:  Skilled in text classification, sentiment analysis and speech recognition
 
 
-Work experience
+**Work experience**
 
 ---
 
@@ -168,7 +168,7 @@ Work experience
   * Published the work as first author in IEEE-BIBM (2019) and  IJDMB(2020).
   * Supervisor: Professor Kaizhong Zhang
 
-Projects
+**Projects**
 
 ---
 
@@ -205,7 +205,7 @@ Projects
 
 
 
-(jourals)
+**jourals**
 
 * Xie et al.  “HelixDiff, a Score-Based Diffusion Model for Generating All-Atom α-Helical Structures”(link), ACS Central Science (IF 18.2), 2024. [Link for my paper](https://pubs.acs.org/doi/10.1021/acscentsci.3c01488)
 
@@ -213,7 +213,7 @@ Projects
 
 * Xie et al.  “MHCherryPan, a novel pan-specific model for binding affinity prediction of class I HLA-peptide” (link),  Int. J. Data Mining and Bioinformatics, Vol. 24, No. 3, 2020. [Link for my paper](https://www.inderscienceonline.com/doi/abs/10.1504/IJDMB.2020.112850?mobileUi=0)
 
-(Conferences & workshops)
+**Conferences & workshops**
 
 * Xie et al.  “HelixDiff: Conditional Full-atom Design of Peptides With Diffusion Models”(link), Machine Learning for Structural Biology (MLSB) Workshop at NeurIPS 2023 [Link for my paper](https://www.mlsb.io/papers_2023/HelixDiff_Conditional_Full-atom_Design_of_Peptides_With_Diffusion_Models.pdf)
 
