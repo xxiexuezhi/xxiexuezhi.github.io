@@ -26,15 +26,13 @@ Check out [my publication page](https://xxiexuezhi.github.io/publications/) for 
 
 
 <p>
-Check out Our Designed Art Work Using Machine Learninig And Selected as Cover Figure for ACS Science (HelixDiff)
+Check out Our Designed Art Work Using Machine Learninig And Selected as Cover Figure for ACS Science (HelixDiff) and the Recorded Virtual Talk on MLSB NeurIPS (HelixGAN) 
 </p>
-
-<a  href="https://pubs.acs.org/toc/acscii/10/5" target="_blank">
-<img src="/images/acs_cover.jpg" width="17%"/>   
-</p>
----
 <p>
-Check out the Recorded Virtual Talk on MLSB NeurIPS (HelixGAN) 
+<a  href="https://pubs.acs.org/toc/acscii/10/5" target="_blank">
+<img asrc="/images/acs_cover.jpg" width="17%"/>   
+
+
 <a href="https://slideslive.com/38971343/helixgan-a-generative-adversarial-network-with-search-in-latent-space-for-generation-under-constraints?ref=speaker-93539" target="_blank">  
 <img src="/images/helixgan_nips_talk.png" width="17.5%"/>
 </p>
