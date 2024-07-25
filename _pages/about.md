@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+## About
+
 Welcome to my personal website !
 
 I am [a 4th-year cs phd student at Kim's lab](https://www.kimlab.org/members/people) at the University of Toronto, specializing in AI for science. My research focuses on using generative AI to design pharmaceutical peptide and protein drugs, with projects including D-peptide drugs and epitope-specific antibodies for applications such as wet-lab validated GLP-1 agonists and SARS-CoV-2 treatments.
