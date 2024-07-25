@@ -31,8 +31,6 @@ Check out Our Designed Art Work Using Machine Learninig And Selected as Cover Fi
 <p>
 <a  href="https://pubs.acs.org/toc/acscii/10/5" target="_blank">
 <img asrc="/images/acs_cover.jpg" width="17%"/>   
-
-
 <a href="https://slideslive.com/38971343/helixgan-a-generative-adversarial-network-with-search-in-latent-space-for-generation-under-constraints?ref=speaker-93539" target="_blank">  
 <img src="/images/helixgan_nips_talk.png" width="17.5%"/>
 </p>
