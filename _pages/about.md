@@ -122,19 +122,25 @@ If you're interested in "statistical geochemistry", especially weighted bootstra
 
 
 Xuezhi Xie
-======
+
+---
+
 PhD student, Department of Computer Science, University of Toronto
 <br/><br/>
 
 
 Education
-======
+
+---
+
 * Ph.D in Computer Science, University of Toronto, 2020 - 2024 (expected)
 * M.S. in Computer Science, specialization in Artificial Intelligence, Western University, 2018 - 2020
 * B.S. in Biology, Minor in Computer science, University of Waterloo, 2012 - 2016
   
 Skills
-======
+
+---
+
 * Languages:  Java, Python, C, C#,  C++, JavaScript    
 * Software:   Eclipse, Jupyter, Visual Studio/Code        
 * Database:  SQL, MongoDB    
@@ -147,7 +153,9 @@ Skills
 
 
 Work experience
-======
+
+---
+
 * Research assistant (machine learning) - University of Toronto, Toronto, On, Canada, 2020 - present
   * Developed different deep generative model for target-pecific drug design, including score-based diffusion model, GAN, and VAE.
   * Developed and implemented various searches and inpainting methods to optimize the synthetic data with optimized pharmetutical properties. 
@@ -161,7 +169,9 @@ Work experience
   * Supervisor: Professor Kaizhong Zhang
 
 Projects
-======
+
+---
+
 * Flow-matching model for antibody design       (Jan.2024 - Now)                                                                                      
   * Designed flow-matching model with equivariance for full-atom antibody design, and developed an active inpainting model for conditional design based on antigen. 
 
@@ -192,7 +202,7 @@ Projects
 
 
 ## Publications 
-======
+
 
 
 (jourals)
