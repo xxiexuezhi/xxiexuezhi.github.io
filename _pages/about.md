@@ -23,8 +23,9 @@ Check out [my publication page](https://xxiexuezhi.github.io/publications/) for 
 
 ## Talks & Research Updates
 
+<div> 
 <iframe width="560" height="315" src="https://youtu.be/s6CfBTmmV4U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</div> 
 
 <!-- 
 <p align="left">
