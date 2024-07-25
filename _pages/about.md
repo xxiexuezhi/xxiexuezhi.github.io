@@ -32,6 +32,7 @@ Check out Our Designed Art Work Using Machine Learninig Which Was Selected as Co
   &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;  
 <a href="https://slideslive.com/38971343/helixgan-a-generative-adversarial-network-with-search-in-latent-space-for-generation-under-constraints?ref=speaker-93539" target="_blank">  
 <img src="/images/helixgan_nips_talk.png" width="39%"/>
+  
 </p>
 
 ---
@@ -45,11 +46,13 @@ Check out my recent work on Flow-matching model using E3NN to direct monitering 
 <img src="/images/run_1_time_rosetta2.gif" width="25%"/>
   &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="/images/a_font30_gif_len16.gif" width="40%"/> 
+  
 </p>
 <p align="center">
 <img src="/images/a_length18_gif.gif" width="40%"/>
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
 <img src="/images/a_len20_image.gif" width="40%"/> 
+  
 </p>
 
 ---
