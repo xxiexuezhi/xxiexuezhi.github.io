@@ -40,7 +40,8 @@ Check out my recent work on Flow-matching model using E3NN to direct monitering 
 <p align="center">
 <img src="/images/run_1_time_rosetta2.gif" width="25%"/>
 
-  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; 
+  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
 <img src="/images/a_font30_gif_len16.gif" width="40%"/> 
 </p>
 <p align="center">
