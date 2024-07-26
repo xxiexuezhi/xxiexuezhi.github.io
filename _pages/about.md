@@ -24,7 +24,7 @@ Check out [my publication page](https://xxiexuezhi.github.io/publications/) for 
 ## Talks & Research Updates
 
 <p align="left">
-Check out my new paper [Link for my paper](https://pubs.acs.org/doi/10.1021/acscentsci.3c01488) using diffusion model for peptide drug design as well as our designed Art Work Which Was Selected as Cover Figure for ACS Science (IF 18.2). On the right side, there was my Recorded Virtual Talk on MLSB NeurIPS regarding peptide design using generative model (HelixGAN)
+Check out my new paper(https://pubs.acs.org/doi/10.1021/acscentsci.3c01488) using diffusion model for peptide drug design as well as our designed Art Work Which Was Selected as Cover Figure for ACS Science (IF 18.2). On the right side, there was my Recorded Virtual Talk on MLSB NeurIPS regarding peptide design using generative model (HelixGAN)
 </p>
 <p align="center">
 <a  href="https://pubs.acs.org/toc/acscii/10/5" target="_blank">
