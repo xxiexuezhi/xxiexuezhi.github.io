@@ -24,7 +24,7 @@ Check out [my publication page](https://xxiexuezhi.github.io/publications/) for 
 ## Talks & Research Updates
 
 <p align="left">
-Check out Our Designed Art Work Using Machine Learninig Which Was Selected as Cover Figure for ACS Science (IF 18,7) and the Recorded Virtual Talk on MLSB NeurIPS (HelixGAN)
+Check out my new paper [Link for my paper](https://pubs.acs.org/doi/10.1021/acscentsci.3c01488) using diffusion model for peptide drug design as well as our designed Art Work Which Was Selected as Cover Figure for ACS Science (IF 18,7). On the right side, there was my Recorded Virtual Talk on MLSB NeurIPS regarding peptide design using generative model (HelixGAN)
 </p>
 <p align="center">
 <a  href="https://pubs.acs.org/toc/acscii/10/5" target="_blank">
@@ -41,7 +41,7 @@ Check out Our Designed Art Work Using Machine Learninig Which Was Selected as Co
 
   
 <p align="left">
-Check out my recent work on Flow-matching model using E3NN to direct monitering atom movements. the Gif for Flow-matching Process inide HelixFlow Model (14, 16, 18, 20 AA)
+Check out my recent work on Flow-matching model using E3NN to direct monitering atom movements. Flow Matching (FM) is a recent generative modeling approach gaining popularity in the ML community. It combines elements from flow models and diffusion models (DMs), addressing their drawbacks. The Gif for Flow-matching Process inide HelixFlow Model (14, 16, 18, 20 AA)
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ Check out my recent work on Flow-matching model using E3NN to direct monitering 
 ---
 
 <p>
-A pratice talks cover my recent works (helixDiff, HelixFlow, and ABGM) on May 2024 and a visulization for new antibody project (flow-matching). 
+A pratice talks cover three my recent works (helixDiff, HelixFlow, and ABGM) on May 2024 and a visulization for new antibody project using flow-matching. 
 </p>
 <p align="center">
 <a  href="https://youtu.be/s6CfBTmmV4U" target="_blank">
