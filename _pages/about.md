@@ -21,7 +21,19 @@ Check out [my publication page](https://xxiexuezhi.github.io/publications/) for 
 
 ## Talks & Research Updates
 
+I’m honored to be selected for an oral presentation at MLSB NeurIPS 2024 this December, where I  discussed peptide design using an E3NN Flow-Matching model. Check out the link below for details on the talk!
 
+<p align="center">
+<a href="https://neurips.cc/virtual/2024/102550" target="_blank">  
+<img src="/images/screenshot_helixflow_talk.png" width="70%"/>
+</a>  
+</p>
+
+
+
+---
+
+  
 Check out [my new paper](https://pubs.acs.org/doi/10.1021/acscentsci.3c01488) using diffusion model for peptide drug design as well as our designed Art Work Which Was Selected as Cover Figure for ACS Science (IF 18.2). On the right side, there was my Recorded Virtual Talk on MLSB NeurIPS regarding peptide design using generative model (HelixGAN)
 <p align="left">
 </p>
