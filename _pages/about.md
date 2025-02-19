@@ -192,11 +192,14 @@ PhD student, Department of Computer Science, University of Toronto
 * Flow-matching model for antibody design       (Jan.2024 - Dec.2024)                                                                                      
   * Designed flow-matching model with equivariance for full-atom antibody design, and developed an active inpainting model for conditional design based on antigen. 
 
+* Score-based diffusion model for peptide drug design     (Jan.2023 - Dec.2023)
+  * Designed score-based diffusion model for full-atom peptide design, and developed an active inpainting model for conditional design based on hotspots residues to facilitate early drug discovery. [Link for my paper](https://pubs.acs.org/doi/10.1021/acscentsci.3c01488)
+  * Invited to design the cover for ACS Central Science journal.  [Link for cover](https://pubs.acs.org/cms/10.1021/acscii.2024.10.issue-5/asset/acscii.2024.10.issue-5.xlargecover-3.jpg)
+
 * Diffusion model for antigen-specific antibody design           (Jan.2022 - Dec.2023)
   * Developed a score-based diffusion model named AntibodySGM for antigen specefic antibody design and achived state-of-art performance compared with current deep learning models. 
   * Developed and implemented a novel CDR-inpainting module for antigen-specific antibody optimization. Published the work as first author in ICML Workshop (ICML computational biology) 2023. [Link for my paper](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper143.pdf)
   * Create an online visulization tools for peptide and protien. Generated antiboy data also included. [Link for my visulization tool](https://huggingface.co/spaces/xxie92/proteinml-demo-dssp-duplicate) 
-
 
 
 * Deep generative model with constraints for D-peptide drug design           (Jan.2019 - Jan.2023)
