@@ -25,7 +25,7 @@ I’m honored to be selected for an oral presentation at MLSB NeurIPS 2024 last 
 
 <p align="center">
 <a href="https://neurips.cc/virtual/2024/102550" target="_blank">  
-<img src="/images/screenshot_helixflow_talk.png" width="80%"/>
+<img src="/images/screenshot_helixflow_talk.png" width="100%"/>
 </a>  
 </p>
 
