@@ -21,7 +21,7 @@ Check out [my publication page](https://xxiexuezhi.github.io/publications/) for 
 
 ## Talks & Research Updates
 
-I’m honored to be selected for an oral presentation at MLSB NeurIPS 2024 this December, where I  discussed peptide design using an E3NN Flow-Matching model. Check out the link below for details on the talk!
+I’m honored to be selected for an oral presentation at MLSB NeurIPS 2024 last December, where I  discussed peptide design using an E3NN Flow-Matching model. Check out the link below for details on the talk!
 
 <p align="center">
 <a href="https://neurips.cc/virtual/2024/102550" target="_blank">  
