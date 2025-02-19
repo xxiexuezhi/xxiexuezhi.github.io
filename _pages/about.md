@@ -12,9 +12,9 @@ redirect_from:
 
 Welcome to my personal website !
 
-I am [a 4th-year cs phd student at Kim's lab](https://www.kimlab.org/members/people) at the University of Toronto, specializing in AI for science. My research focuses on using generative AI to design pharmaceutical peptide and protein drugs, with projects including D-peptide drugs and epitope-specific antibodies for applications such as wet-lab validated GLP-1 agonists and SARS-CoV-2 treatments.
+I am [a 4th-year cs phd student at Kim's lab](https://www.kimlab.org/members/people) at the University of Toronto, specializing in AI for science. My research focuses on using generative AI to design pharmaceutical peptide and protein drugs, with projects including  macrocyclic peptides drugs, D-peptide drugs and epitope-specific antibodies for applications such as wet-lab validated GLP-1 agonists and SARS-CoV-2 treatments.
 
-My research focuses on therapeutic peptides and antibody design, where I integrate computational and experimental methods to address pressing biomedical challenges. Over the past three years, I’ve developed and applied deep learning models, including flow-matching, score-based diffusion models, GANs, and transformers, to design and validate novel therapeutics.
+My research focuses on therapeutic peptides and antibody design, where I integrate computational and experimental methods to address pressing biomedical challenges. Over the past four years, I’ve developed and applied deep learning models, including flow-matching, score-based diffusion models, GANs, and transformers, to design and validate novel therapeutics.
 
 Check out [my publication page](https://xxiexuezhi.github.io/publications/) for more details. 
 
@@ -87,7 +87,7 @@ A pratice talks cover three my recent works (helixDiff, HelixFlow, and ABGM) on 
 <!-- 
 
 
-The ability to design biological molecules shows our understanding of biology. My research interest mainly focuses on understanding biological systems and design for pharmaceutical peptide/protein drugs using generative AI. In particular, I’ve been focusing on the generation of the D-peptide drug and epitoipe-specific antibodies with different deep generative models and its applications to real-world tasks, for example, glucagon-like peptide 1 (GLP-1) agonists, SARS-CoV-2, etc. 
+The ability to design biological molecules shows our understanding of biology. My research interest mainly focuses on understanding biological systems and design for pharmaceutical peptide/protein drugs using generative AI. In particular, I’ve been focusing on the generation of the macrocyclic peptides, D-peptide drug and epitoipe-specific antibodies with different deep generative models and its applications to real-world tasks, for example, glucagon-like peptide 1 (GLP-1) agonists, SARS-CoV-2, etc. 
 
 Over the past three years, I have developed mutiple deep learning models for computational biology including scored-based diffusion model, Generative adversarial network, transformers, and reinforcement learning using Pytorch and Tensorflow. Related papers are available in [publication section](https://xxiexuezhi.github.io/publications/).
 
@@ -185,7 +185,11 @@ PhD student, Department of Computer Science, University of Toronto
 
 ---
 
-* Flow-matching model for antibody design       (Jan.2024 - Now)                                                                                      
+
+* Modified AlphaFold 3 model for macrocyclic peptides design       (Feb.2024 - Now)                                                                                      
+  * Developed CyclicBoltz1, an AlphaFold3-based model that extends cyclic offset encoding to predict cyclic peptide structures with non-canonical amino acids. Achieved superior accuracy over all current cyclic prediction models. [Link for my paper](https://www.biorxiv.org/content/10.1101/2025.02.11.637752v1)
+    
+* Flow-matching model for antibody design       (Jan.2024 - Dec.2024)                                                                                      
   * Designed flow-matching model with equivariance for full-atom antibody design, and developed an active inpainting model for conditional design based on antigen. 
 
 * Diffusion model for antigen-specific antibody design           (Jan.2022 - Dec.2023)
@@ -220,6 +224,8 @@ PhD student, Department of Computer Science, University of Toronto
 
 **jourals**
 
+* Xie et al.  “CyclicBoltz1, fast and accurately predicting structures of cyclic peptides and complexes containing non-canonical amino acids using AlphaFold 3 Framework”[Link for my paper](https://www.biorxiv.org/content/10.1101/2025.02.11.637752v1), bioRxiv, 2025.
+
 * Xie et al.  “HelixDiff, a Score-Based Diffusion Model for Generating All-Atom α-Helical Structures”(link), ACS Central Science (IF 18.2), 2024. [Link for my paper](https://pubs.acs.org/doi/10.1021/acscentsci.3c01488)
 
 * Xie et al.  “HelixGAN a deep-learning methodology for conditional de novo design of α-helix structures”(link), Bioinformatics 2023.[Link for my paper](https://academic.oup.com/bioinformatics/article/39/1/btad036/6991169)
@@ -228,6 +234,7 @@ PhD student, Department of Computer Science, University of Toronto
 
 **Conferences & workshops**
 
+* Xie et al.  “HelixFlow, SE(3)–equivariant Full-atom Design of Peptides With Flow-matching Models”, Machine Learning for Structural Biology (MLSB) Workshop at NeurIPS 2024 .[Link for my paper](https://www.mlsb.io/papers_2024/HelixFlow,_SE(3)%E2%80%93equivariant_Full-atom_Design_of_Peptides_With_Flow-matching_Models.pdf)  [Link for my talk](https://neurips.cc/virtual/2024/102550).
 * Xie et al.  “HelixDiff: Conditional Full-atom Design of Peptides With Diffusion Models”(link), Machine Learning for Structural Biology (MLSB) Workshop at NeurIPS 2023 [Link for my paper](https://www.mlsb.io/papers_2023/HelixDiff_Conditional_Full-atom_Design_of_Peptides_With_Diffusion_Models.pdf)
 
 * Xie et al.  “Antibody-SGM: Antigen-Specific Joint Design of Antibody Sequence and Structure using Diffusion Models”, Computational Biology Workshop at ICML 2023 [Link for my paper](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper143.pdf)
