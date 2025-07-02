@@ -229,6 +229,8 @@ PhD student, Department of Computer Science, University of Toronto
 
 * Xie et al.  “CyclicBoltz1, fast and accurately predicting structures of cyclic peptides and complexes containing non-canonical amino acids using AlphaFold 3 Framework”[Link for my paper](https://www.biorxiv.org/content/10.1101/2025.02.11.637752v1), bioRxiv, 2025.
 
+* Xie et al.  “Antibody-SGM, a Score-Based Generative Model for Antibody Heavy-Chain Design”(link), Journal of Chemical Information and Modeling, 2024. [Link for my paper](https://pubs.acs.org/doi/10.1021/acs.jcim.4c00711)
+
 * Xie et al.  “HelixDiff, a Score-Based Diffusion Model for Generating All-Atom α-Helical Structures”(link), ACS Central Science (IF 18.2), 2024. [Link for my paper](https://pubs.acs.org/doi/10.1021/acscentsci.3c01488)
 
 * Xie et al.  “HelixGAN a deep-learning methodology for conditional de novo design of α-helix structures”(link), Bioinformatics 2023.[Link for my paper](https://academic.oup.com/bioinformatics/article/39/1/btad036/6991169)
