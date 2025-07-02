@@ -146,7 +146,7 @@ PhD student, Department of Computer Science, University of Toronto
 
 ---
 
-* Ph.D in Computer Science, University of Toronto, 2020 - 2024 (expected)
+* Ph.D in Computer Science, University of Toronto, 2020 - 2025 (expected)
 * M.S. in Computer Science, specialization in Artificial Intelligence, Western University, 2018 - 2020
 * B.S. in Biology, Minor in Computer science, University of Waterloo, 2012 - 2016
   
