@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publications (First Author only) 
+## Publications
 
 
 **jourals**
